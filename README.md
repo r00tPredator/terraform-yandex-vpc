@@ -4,8 +4,7 @@ This module creates folder in your cloud if needed (create_folder = true) and ad
 - Nat Instance if needed
 - Route tables if needed
 
-> Attention! This module forked from https://github.com/shestera/terraform-yandex-vpc because origin is not supported or slowly supported.
-
+> Attention! This module forked from https://github.com/shestera/terraform-yandex-vpc and https://github.com/hamnsk/terraform-yandex-vpc
 
 ## Requirements
 
